@@ -1,5 +1,8 @@
 body {
-    background-color: gray;
+  background: url("http://images.freeimages.com/images/previews/4f5/moose-fur-1410979.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
 }
 
 h1, p {
