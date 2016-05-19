@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
 body {
   background: url("images/fur.jpg");
   background-size: cover;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: Helvetica;
 }
 
 h1, p {
