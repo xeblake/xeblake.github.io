@@ -1,8 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 body {
-  background: url("http://images.freeimages.com/images/previews/4f5/moose-fur-1410979.jpg");
+  background: url("images/fur.jpg");
   background-size: cover;
   color: #fff;
-  font-family: Helvetica;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1, p {
