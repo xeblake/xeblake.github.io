@@ -4,12 +4,13 @@ html, body{
   background: url("http://demandware.edgesuite.net/aamm_prd/on/demandware.static/-/Sites-joann-product-catalog/default/dwdd7e6085/images/hi-res/master/zprd_02304236a.jpg");
   background-size: cover;
   color: #fff;
+  font-size: 2em;
   font-family: 'Montserrat', sans-serif;
 }
 
 h1,h2 {
   text-transform: uppercase;
-  border-bottom: 8px rgb(75,0,130);
+  border-bottom: 8px solid black;
   display: inline-block;
 }
 
@@ -30,10 +31,10 @@ footer {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 5em;
 }
 
 h2 {
-  font-size: 2em;
+  font-size: 3em;
   padding: .8em 0;
 }
