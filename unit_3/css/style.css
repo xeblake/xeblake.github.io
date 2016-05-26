@@ -1,15 +1,40 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
-body {
+html, body{
+  text-align: center;
   background: url("http://demandware.edgesuite.net/aamm_prd/on/demandware.static/-/Sites-joann-product-catalog/default/dwdd7e6085/images/hi-res/master/zprd_02304236a.jpg");
   background-size: cover;
   color: #fff;
+  font-size: 20px;
   font-family: 'Montserrat', sans-serif;
 }
 
-h1, p {
-    color: white;
+h1,h2 {
+  text-transform: uppercase;
+  border-bottom: 8px solid purple;
+  display: inline-block;
 }
 
-#slogan {
-	font-weight: bold;
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  text-align: center;
+  padding: 5em 0;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3em;
+  padding: .8em 0;
 }
