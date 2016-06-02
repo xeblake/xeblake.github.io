@@ -56,23 +56,6 @@ img {
   width: 480px;
 }
 
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  float: left;
-  width: 50%;
-  height: 6em;
-  outline: 3px solid #222;
-  text-align: center;
-  line-height: 6em;
-  color: #000;
-  background: #fff;
-}
-
 nav {
   font-size: 1.8em;
   float: right;
