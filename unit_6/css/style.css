@@ -70,10 +70,14 @@ ul {
 
 #fuzz {
   float: left;
+  color: #fff;
+  font-size: 20px;
 }
 
 #belly {
   float: right;
+  color: #fff;
+  font-size: 20px;
 }
 
 footer {
