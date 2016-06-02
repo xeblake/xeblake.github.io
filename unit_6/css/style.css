@@ -69,15 +69,15 @@ ul {
 }
 
 #fuzz {
-  float: left;
   color: #fff;
   font-size: 20px;
+  float: left;
 }
 
 #belly {
-  float: right;
   color: #fff;
   font-size: 20px;
+  float: right;
 }
 
 footer {
