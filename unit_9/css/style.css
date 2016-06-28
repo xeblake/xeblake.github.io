@@ -111,10 +111,6 @@ section {
   overflow: auto;
 }
 
-section:hover{
-  color:#41A317;
-}
-
 div {
   font-size: 1.2em;
   width: 46%;
