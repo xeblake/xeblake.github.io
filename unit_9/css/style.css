@@ -170,3 +170,7 @@ h2 {
   width: 46%;
   float:left;
 }
+
+#about:hover{
+  color:#41A317;
+}
