@@ -58,10 +58,6 @@ div, section {
   padding: 20px;
 }
 
-div:hover{
-  color:#41A317;
-}
-
 section:hover{
   color:hotpink;
 }
@@ -120,6 +116,10 @@ div {
   width: 46%;
   padding: 2%;
   display: inline-block;
+}
+
+div:hover{
+  color:#41A317;
 }
 
 #hero {
