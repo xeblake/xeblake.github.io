@@ -118,6 +118,10 @@ footer {
   width:100%;
 }
 
+footer:hover{
+  color:yellow;
+}
+
 h1 {
   font-size: 4em;
 }
