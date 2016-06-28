@@ -38,6 +38,10 @@ footer {
   padding: 20px;
 }
 
+footer:hover{
+  color:yellow;
+}
+
 div, section {
   background-color: #FFE2B8
   border: 1px black solid;
@@ -116,10 +120,6 @@ footer {
   padding: 5em 0;
   float:left;
   width:100%;
-}
-
-footer:hover{
-  color:yellow;
 }
 
 h1 {
