@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+html, body{
+  text-align: center;
+  background: url("http://demandware.edgesuite.net/aamm_prd/on/demandware.static/-/Sites-joann-product-catalog/default/dwdd7e6085/images/hi-res/master/zprd_02304236a.jpg");
+  background-size: cover;
+  color: #fff;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  background-color: #FFED74
+  border: 1px black solid;
+  padding: 20px;
+}
+
+nav {
+  background-color: #E8C66A
+  border: 1px black solid;
+  padding: 20px;
+}
+
+aside {
+  background-color: #FFC675
+  border: 1px black solid;
+  padding: 20px;
+}
+
+article {
+  background-color: #E89C6C
+  border: 1px black solid;
+  padding: 20px;
+}
+
+footer {
+  background-color: #FF957E
+  border: 1px black solid;
+  padding: 20px;
+}
+
+div, section {
+  background-color: #FFE2B8
+  border: 1px black solid;
+  padding: 20px;
+}
+
+h1,h2 {
+  text-transform: uppercase;
+  border-bottom: 8px solid purple;
+  display: inline-block;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 480px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  font-size: 1.8em;
+  float: left;
+  width:100%;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
+  margin: .3em;
+  display: inline-block;
+}
+
+nav a:hover{
+  color:yellow;
+}
+
+section {
+  background: #222;
+  color: #fff;
+  overflow: auto;
+}
+
+div {
+  font-size: 1.2em;
+  width: 46%;
+  padding: 2%;
+  display: inline-block;
+}
+
+#hero {
+
+
+  margin: 0;
+  background: black;
+}
+
+#fuzz {
+  color: #fff;
+  font-size: 40px;
+  float: left;
+}
+
+#belly {
+  color: #fff;
+  font-size: 40px;
+  float: right;
+}
+
+footer {
+  text-align: center;
+  padding: 5em 0;
+  float:left;
+  width:100%;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h2 {
+  font-size: 3em;
+  padding: .8em 0;
+}
+.wrapper{
+  width: 100%;
+  float:left;
+}
+#about,#preferences{
+  width: 46%;
+  float:left;
+}
