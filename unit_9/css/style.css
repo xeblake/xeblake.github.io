@@ -58,6 +58,10 @@ div, section {
   padding: 20px;
 }
 
+div:hover{
+  color:#41A317;
+}
+
 section:hover{
   color:hotpink;
 }
