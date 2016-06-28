@@ -24,6 +24,10 @@ nav {
   padding: 20px;
 }
 
+nav:hover{
+  color:pink;
+}
+
 aside {
   background-color: #FFC675
   border: 1px black solid;
@@ -56,6 +60,10 @@ h1,h2 {
   text-transform: uppercase;
   border-bottom: 8px solid purple;
   display: inline-block;
+}
+
+h1,h2:hover{
+  color:pink;
 }
 
 img {
