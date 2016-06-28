@@ -15,7 +15,7 @@ header {
 }
 
 header:hover{
-  color:pink;
+  color:hotpink;
 }
 
 nav {
@@ -25,7 +25,7 @@ nav {
 }
 
 nav:hover{
-  color:pink;
+  color:hotpink;
 }
 
 aside {
@@ -38,6 +38,10 @@ article {
   background-color: #E89C6C
   border: 1px black solid;
   padding: 20px;
+}
+
+article:hover{
+  color:hotpink;
 }
 
 footer {
@@ -56,6 +60,10 @@ div, section {
   padding: 20px;
 }
 
+section:hover{
+  color:hotpink;
+}
+
 h1,h2 {
   text-transform: uppercase;
   border-bottom: 8px solid purple;
@@ -63,7 +71,7 @@ h1,h2 {
 }
 
 h1,h2:hover{
-  color:pink;
+  color:hotpink;
 }
 
 img {
