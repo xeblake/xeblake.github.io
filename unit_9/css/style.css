@@ -8,6 +8,10 @@ html, body{
   font-family: 'Montserrat', sans-serif;
 }
 
+body:hover{
+  color:#41A317;
+}
+
 header {
   background-color: #FFED74
   border: 1px black solid;
@@ -169,8 +173,4 @@ h2 {
 #about,#preferences{
   width: 46%;
   float:left;
-}
-
-#about:hover{
-  color:#41A317;
 }
