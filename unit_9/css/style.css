@@ -14,6 +14,10 @@ header {
   padding: 20px;
 }
 
+header:hover{
+  color:pink;
+}
+
 nav {
   background-color: #E8C66A
   border: 1px black solid;
@@ -64,6 +68,10 @@ ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+
+ul:hover{
+  color:green;
 }
 
 nav {
