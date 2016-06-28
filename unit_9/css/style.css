@@ -31,7 +31,7 @@ aside {
 }
 
 nav:hover{
-  color:limegreen;
+  color:#41A317;
 }
 
 article {
@@ -87,7 +87,7 @@ ul {
 }
 
 ul:hover{
-  color:limegreen;
+  color:#41A317;
 }
 
 nav {
@@ -113,11 +113,19 @@ section {
   overflow: auto;
 }
 
+section:hover{
+  color:#41A317;
+}
+
 div {
   font-size: 1.2em;
   width: 46%;
   padding: 2%;
   display: inline-block;
+}
+
+div:hover{
+  color:#41A317;
 }
 
 #hero {
