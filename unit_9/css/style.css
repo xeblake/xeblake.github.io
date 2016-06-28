@@ -30,6 +30,10 @@ aside {
   padding: 20px;
 }
 
+nav:hover{
+  color:limegreen;
+}
+
 article {
   background-color: #E89C6C
   border: 1px black solid;
@@ -83,7 +87,7 @@ ul {
 }
 
 ul:hover{
-  color:green;
+  color:limegreen;
 }
 
 nav {
